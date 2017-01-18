@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Relaxa",
-    "currentPage": "Home slide.html",
+    "currentPage": "angliski.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -67,9 +67,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#eb6b56"
             },
-            ".mbr-navbar__section": {
-              "background": "#eb6b56"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#000000"
             }
@@ -317,7 +315,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#f97352"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -327,7 +325,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1p",
           "_params": {
-            "color": "#2c2c2c",
+            "color": "#f97352",
             "hamburgerColor": "#ffffff",
             "transparent": true,
             "sticky": false,
@@ -354,7 +352,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html\">Начало</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">За нас</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Контакти</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Home Page.html\">Начало</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">За нас</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Контакти</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ВХОД</a></li>"
         }
       ]
@@ -1494,7 +1492,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-o",
           "_params": {
-            "color": "#2c2c2c",
+            "color": "#f97352",
             "hamburgerColor": "#ffffff",
             "transparent": true,
             "sticky": false,
@@ -1597,7 +1595,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1p",
           "_params": {
-            "color": "#2c2c2c",
+            "color": "#f97352",
             "hamburgerColor": "#ffffff",
             "transparent": true,
             "sticky": false,

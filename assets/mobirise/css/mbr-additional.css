@@ -9,9 +9,6 @@
 #menu-s.mbr-navbar--stuck .mbr-navbar__section {
   background: #eb6b56;
 }
-#menu-s .mbr-navbar__section {
-  background: #eb6b56;
-}
 #menu-s .mbr-navbar__hamburger {
   color: #000000;
 }
@@ -43,7 +40,7 @@
   font-size: 16px;
 }
 #ext_menu-1p.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #f97352;
 }
 #ext_menu-1p .mbr-navbar__hamburger {
   color: #ffffff;
