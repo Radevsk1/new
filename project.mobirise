@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Relaxa",
-    "currentPage": "Home slide.html",
+    "currentPage": "Ispanski.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -590,8 +590,9 @@
           "_name": "header2",
           "_styles": {
             "P": {
-              "font-size": "14px",
-              "color": "#000000"
+              "font-size": "13px",
+              "color": "#000000",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-1t",
@@ -681,7 +682,7 @@
           "_name": "header2",
           "_styles": {
             "P": {
-              "font-size": "14px",
+              "font-size": "13px",
               "color": "#000000"
             }
           },
@@ -772,8 +773,9 @@
           "_name": "header2",
           "_styles": {
             "P": {
-              "font-size": "14px",
-              "color": "#000000"
+              "font-size": "13px",
+              "color": "#000000",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-1s",
