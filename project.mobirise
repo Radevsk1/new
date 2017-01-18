@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Relaxa",
-    "currentPage": "Home slide.html",
+    "currentPage": "Client Form.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -65,11 +65,11 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#b8312f"
+              "background": "#000000"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#7c706b"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -103,94 +103,8 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"newhome.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">relaxa.bg</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"newhome.html\">Начало</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"&quot;C:\\Users\\martin.radevski\\Dropbox\\New Text Document.txt&quot;\" target=\"_blank\">За нас&nbsp;</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">Контакти</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Home page.html\">Начало</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"&quot;C:\\Users\\martin.radevski\\Dropbox\\New Text Document.txt&quot;\" target=\"_blank\">За нас&nbsp;</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">Контакти</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"facebook.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Вход</a></li>"
-        }
-      ]
-    },
-    "newhome.html": {
-      "settings": {
-        "title": "",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#000000"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-u",
-          "_params": {
-            "color": "#000000",
-            "hamburgerColor": "#000000",
-            "transparent": true,
-            "sticky": true,
-            "collapsed": false,
-            "logo": false,
-            "showBrand": false,
-            "showButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "images/logo.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"newhome.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">relaxa.bg</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"newhome.html\">Начало</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"&quot;C:\\Users\\martin.radevski\\Dropbox\\New Text Document.txt&quot;\" target=\"_blank\">За нас&nbsp;</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">Контакти</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"facebook.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Вход</a></li>"
-        },
-        {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-18",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1428899530170-95753c69f40d-2000x1333.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false
-          },
-          "title": "RELAXA.bg",
-          "text": "Вашият езиков самоучител&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Home slide.html\" data-toolbar=\"-mbrBtnMove\">Продукти</a>  "
         }
       ]
     },
@@ -334,7 +248,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"newhome.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">relaxa.bg</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"newhome.html\">Начало</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"&quot;C:\\Users\\martin.radevski\\Dropbox\\New Text Document.txt&quot;\" target=\"_blank\">За нас&nbsp;</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">Контакти</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Home page.html\">Начало</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"&quot;C:\\Users\\martin.radevski\\Dropbox\\New Text Document.txt&quot;\" target=\"_blank\">За нас&nbsp;</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">Контакти</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"facebook.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Вход</a></li>"
         },
         {
@@ -1520,31 +1434,31 @@
           "form": {
             "action": "martin.radevski@microinvest.net",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Благодарим за попълнената форма при въпроси моля свържете се с нас на телефон 0885 437 467"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Име*"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "Поща*"
               },
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": "Телефон"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Съобщение"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Изпрати</a>"
         }
       ]
     },
@@ -1739,6 +1653,92 @@
           },
           "text1": "<strong>ADDRESS</strong><br>ул.Ген.Скобелев 13<br>\nВарна, 9002<br><br>\n<strong>CONTACTS</strong><br>\nEmail: martin@relaxa.bg<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
+        }
+      ]
+    },
+    "Home page.html": {
+      "settings": {
+        "title": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-u",
+          "_params": {
+            "color": "#000000",
+            "hamburgerColor": "#000000",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"newhome.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">relaxa.bg</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Home page.html\">Начало</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"&quot;C:\\Users\\martin.radevski\\Dropbox\\New Text Document.txt&quot;\" target=\"_blank\">За нас&nbsp;</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">Контакти</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"facebook.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Вход</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-18",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1428899530170-95753c69f40d-2000x1333.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "RELAXA.bg",
+          "text": "Вашият езиков самоучител&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Home slide.html\" data-toolbar=\"-mbrBtnMove\">Продукти</a>   "
         }
       ]
     }
