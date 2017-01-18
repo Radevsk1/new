@@ -1430,7 +1430,7 @@
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "CONTACT FORM",
+          "title": "Форма за поръчка",
           "form": {
             "action": "martin.radevski@microinvest.net",
             "alerts": {
