@@ -102,7 +102,7 @@
   font-size: 16px;
 }
 #menu-1e.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #000000;
 }
 #menu-1e .mbr-navbar__hamburger {
   color: #000000;
@@ -154,7 +154,7 @@
   font-size: 16px;
 }
 #menu-1d.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #000000;
 }
 #menu-1d .mbr-navbar__hamburger {
   color: #000000;
@@ -167,10 +167,10 @@
   font-size: 16px;
 }
 #menu-1b.mbr-navbar--stuck .mbr-navbar__section {
-  background: #b8312f;
+  background: #000000;
 }
 #menu-1b .mbr-navbar__hamburger {
-  color: #7c706b;
+  color: #000000;
 }
 #header2-1c P {
   font-size: 14px;
