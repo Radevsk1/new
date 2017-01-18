@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Relaxa",
-    "currentPage": "Home page.html",
+    "currentPage": "Home slide.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -221,7 +221,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-s",
+          "_anchor": "menu-u",
           "_params": {
             "color": "#000000",
             "hamburgerColor": "#000000",

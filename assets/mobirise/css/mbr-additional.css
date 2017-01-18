@@ -23,13 +23,13 @@
 }
 
 
-#menu-s .mbr-brand__name {
+#menu-u .mbr-brand__name {
   font-size: 16px;
 }
-#menu-s.mbr-navbar--stuck .mbr-navbar__section {
+#menu-u.mbr-navbar--stuck .mbr-navbar__section {
   background: #000000;
 }
-#menu-s .mbr-navbar__hamburger {
+#menu-u .mbr-navbar__hamburger {
   color: #000000;
 }
 #slider-9 .btn {
