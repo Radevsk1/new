@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Relaxa",
-    "currentPage": "Ispanski.html",
+    "currentPage": "newhome.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -172,7 +172,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1473755504818-b72b6dfdc226-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1428899530170-95753c69f40d-2000x1333.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -180,7 +180,7 @@
             },
             "bgVideoRadio": false,
             "contentAlign": "center",
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
