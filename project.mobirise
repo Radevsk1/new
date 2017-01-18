@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Relaxa",
-    "currentPage": "Nemski.html",
+    "currentPage": "Home slide.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 64,
+    "uniqCompNum": 67,
     "versionPublish": "3.10.7",
     "favicon": "",
     "noImageResize": "",
@@ -540,7 +540,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#000000"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -580,6 +580,43 @@
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"newhome.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">relaxa.bg</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"newhome.html\">Начало</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"&quot;C:\\Users\\martin.radevski\\Dropbox\\New Text Document.txt&quot;\" target=\"_blank\">За нас&nbsp;</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">Контакти</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"facebook.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Вход</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header2-1t",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "MOBIRISE",
+          "text": "ФРЕНСКИ Основен курс е предназначен за начинаещи и учили Френски, които искат да усъвършенстват и поддържат комуникативните си умения. Разделен е на 20 теми в думи и диалози с пълен превод на български. Бързо усвоявате най-необходимите думи и готови изрази за общуване в типичните ситуации от личното и делово всекидневие.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Contact Form.html\" data-toolbar=\"-mbrBtnMove\">КУПИ</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Contact Form.html\" data-toolbar=\"-mbrBtnMove\">Live Streaming</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Download.html\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>  "
         }
       ]
     },
@@ -594,7 +631,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#000000"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -634,6 +671,43 @@
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"newhome.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">relaxa.bg</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"newhome.html\">Начало</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"&quot;C:\\Users\\martin.radevski\\Dropbox\\New Text Document.txt&quot;\" target=\"_blank\">За нас&nbsp;</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">Контакти</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"facebook.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Вход</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header2-1u",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "MOBIRISE",
+          "text": "ИСПАНСКИ Основен курс е предназначен за начинаещи и учили Испански, които искат да усъвършенстват и поддържат комуникативните си умения. Разделен е на 20 теми в думи и диалози с пълен превод на български. Бързо усвоявате най-необходимите думи и готови изрази за общуване в типичните ситуации от личното и делово всекидневие.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Contact Form.html\" data-toolbar=\"-mbrBtnMove\">КУПИ</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Contact Form.html\" data-toolbar=\"-mbrBtnMove\">Live Streaming</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Download.html\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>  "
         }
       ]
     },
@@ -648,7 +722,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#000000"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -688,12 +762,49 @@
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"newhome.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">relaxa.bg</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"newhome.html\">Начало</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"&quot;C:\\Users\\martin.radevski\\Dropbox\\New Text Document.txt&quot;\" target=\"_blank\">За нас&nbsp;</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">Контакти</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"facebook.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Вход</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header2-1s",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "MOBIRISE",
+          "text": "ИТАЛИАНСКИ Основен курс е предназначен за начинаещи и учили Италиански, които искат да усъвършенстват и поддържат комуникативните си умения. Разделен е на 20 теми в думи и диалози с пълен превод на български. Бързо усвоявате най-необходимите думи и готови изрази за общуване в типичните ситуации от личното и делово всекидневие. <br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Contact Form.html\" data-toolbar=\"-mbrBtnMove\">КУПИ</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Contact Form.html\" data-toolbar=\"-mbrBtnMove\">Live Streaming</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Download.html\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>  "
         }
       ]
     },
     "Angliiski naprednali.html": {
       "settings": {
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -831,7 +942,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#000000"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -876,7 +987,7 @@
     },
     "Angliiiski biznes.html": {
       "settings": {
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -885,7 +996,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#000000"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -976,7 +1087,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#000000"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -1544,7 +1655,9 @@
       ]
     },
     "About.html": {
-      "settings": {},
+      "settings": {
+        "order": 18
+      },
       "components": [
         {
           "_inherit": "menu",
