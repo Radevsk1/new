@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Relaxa",
-    "currentPage": "Home Page.html",
+    "currentPage": "Client Form.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1457,7 +1457,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Изпрати</a>"
         }
       ]
     },
