@@ -7,9 +7,18 @@
   font-size: 16px;
 }
 #menu-s.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #b8312f;
 }
 #menu-s .mbr-navbar__hamburger {
+  color: #7c706b;
+}
+#menu-u .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-u.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-u .mbr-navbar__hamburger {
   color: #000000;
 }
 #menu-u .mbr-brand__name {
@@ -23,13 +32,13 @@
 }
 
 
-#menu-u .mbr-brand__name {
+#menu-1h .mbr-brand__name {
   font-size: 16px;
 }
-#menu-u.mbr-navbar--stuck .mbr-navbar__section {
+#menu-1h.mbr-navbar--stuck .mbr-navbar__section {
   background: #000000;
 }
-#menu-u .mbr-navbar__hamburger {
+#menu-1h .mbr-navbar__hamburger {
   color: #000000;
 }
 #slider-9 .btn {
@@ -49,7 +58,7 @@
   font-size: 16px;
 }
 #menu-13.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #2c2c2c;
 }
 #menu-13 .mbr-navbar__hamburger {
   color: #000000;
@@ -61,48 +70,34 @@
   font-size: 16px;
 }
 #menu-14.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #2c2c2c;
 }
 #menu-14 .mbr-navbar__hamburger {
   color: #000000;
-}
-#header2-1t P {
-  font-size: 13px;
-  color: #000000;
-  text-align: left;
 }
 #menu-16 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-16.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #2c2c2c;
 }
 #menu-16 .mbr-navbar__hamburger {
-  color: #000000;
-}
-#header2-1u P {
-  font-size: 13px;
   color: #000000;
 }
 #menu-15 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-15.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #2c2c2c;
 }
 #menu-15 .mbr-navbar__hamburger {
   color: #000000;
-}
-#header2-1s P {
-  font-size: 13px;
-  color: #000000;
-  text-align: left;
 }
 #menu-1e .mbr-brand__name {
   font-size: 16px;
 }
 #menu-1e.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #2c2c2c;
 }
 #menu-1e .mbr-navbar__hamburger {
   color: #000000;
@@ -119,7 +114,7 @@
   font-size: 16px;
 }
 #menu-s.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #2c2c2c;
 }
 #menu-s .mbr-navbar__hamburger {
   color: #000000;
@@ -128,7 +123,7 @@
   font-size: 16px;
 }
 #menu-1f.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #2c2c2c;
 }
 #menu-1f .mbr-navbar__hamburger {
   color: #000000;
@@ -141,7 +136,7 @@
   font-size: 16px;
 }
 #menu-1g.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #2c2c2c;
 }
 #menu-1g .mbr-navbar__hamburger {
   color: #000000;
@@ -154,7 +149,7 @@
   font-size: 16px;
 }
 #menu-1d.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #2c2c2c;
 }
 #menu-1d .mbr-navbar__hamburger {
   color: #000000;
@@ -167,10 +162,10 @@
   font-size: 16px;
 }
 #menu-1b.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #b8312f;
 }
 #menu-1b .mbr-navbar__hamburger {
-  color: #000000;
+  color: #7c706b;
 }
 #header2-1c P {
   font-size: 14px;
@@ -221,13 +216,4 @@
 }
 #ext_menu-1p .mbr-navbar__hamburger {
   color: #ffffff;
-}
-#menu-u .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-u.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-u .mbr-navbar__hamburger {
-  color: #000000;
 }
