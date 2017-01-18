@@ -36,14 +36,14 @@
 #slider-9 H1 {
   text-align: center;
 }
-#ext_menu-1p .mbr-brand__name {
+#menu-s .mbr-brand__name {
   font-size: 16px;
 }
-#ext_menu-1p.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f97352;
+#menu-s.mbr-navbar--stuck .mbr-navbar__section {
+  background: #eb6b56;
 }
-#ext_menu-1p .mbr-navbar__hamburger {
-  color: #ffffff;
+#menu-s .mbr-navbar__hamburger {
+  color: #000000;
 }
 #menu-13 .mbr-brand__name {
   font-size: 16px;
