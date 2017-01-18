@@ -7,25 +7,16 @@
   font-size: 16px;
 }
 #menu-s.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #b8312f;
 }
 #menu-s .mbr-navbar__hamburger {
-  color: #000000;
-}
-#menu-s .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-s.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-s .mbr-navbar__hamburger {
-  color: #000000;
+  color: #7c706b;
 }
 #menu-u .mbr-brand__name {
   font-size: 16px;
 }
 #menu-u.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #000000;
 }
 #menu-u .mbr-navbar__hamburger {
   color: #000000;
@@ -41,6 +32,15 @@
 }
 
 
+#menu-1h .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1h.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-1h .mbr-navbar__hamburger {
+  color: #000000;
+}
 #slider-9 .btn {
   font-size: 18px;
   font-family: 'Oxygen', sans-serif;
@@ -53,15 +53,6 @@
 }
 #slider-9 H1 {
   text-align: center;
-}
-#menu-s .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-s.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-s .mbr-navbar__hamburger {
-  color: #000000;
 }
 #menu-13 .mbr-brand__name {
   font-size: 16px;
@@ -171,10 +162,10 @@
   font-size: 16px;
 }
 #menu-1b.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #b8312f;
 }
 #menu-1b .mbr-navbar__hamburger {
-  color: #000000;
+  color: #7c706b;
 }
 #header2-1c P {
   font-size: 14px;
@@ -184,13 +175,22 @@
   font-size: 16px;
 }
 #menu-1h.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #000000;
 }
 #menu-1h .mbr-navbar__hamburger {
   color: #000000;
 }
 #header2-1j P {
   font-size: 14px;
+  color: #000000;
+}
+#menu-s .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-s.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-s .mbr-navbar__hamburger {
   color: #000000;
 }
 #ext_menu-o .mbr-brand__name {
@@ -203,5 +203,17 @@
   background: #2c2c2c;
 }
 #ext_menu-o .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1p .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1p .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1p .mbr-navbar__hamburger {
   color: #ffffff;
 }
