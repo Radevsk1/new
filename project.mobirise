@@ -84,7 +84,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -139,7 +139,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -224,7 +224,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -315,7 +315,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -469,7 +469,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -559,7 +559,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -651,7 +651,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -742,7 +742,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -834,7 +834,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -963,7 +963,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -1017,7 +1017,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -1108,7 +1108,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -1199,7 +1199,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -1292,7 +1292,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -1383,7 +1383,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
@@ -1475,7 +1475,7 @@
             "sticky": true,
             "collapsed": false,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
