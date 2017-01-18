@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Relaxa",
-    "currentPage": "Home slide.html",
+    "currentPage": "Nemski.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -450,7 +450,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#000000"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -524,7 +524,7 @@
             "showArrow": false
           },
           "title": "MOBIRISE WEBSITE BUILDER",
-          "text": "\u001b<br>.&nbsp;<br>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Nemski  osnoven Kurs .html\" data-toolbar=\"-mbrBtnMove\">Основен курс</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Nemski naprednali.html\" data-toolbar=\"-mbrBtnMove\">Напреднали</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"Nemski pylen kurs.html\" data-toolbar=\"-mbrBtnMove\">Пълен Курс</a> "
         }
       ]
