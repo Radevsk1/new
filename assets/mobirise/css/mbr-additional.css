@@ -7,7 +7,10 @@
   font-size: 16px;
 }
 #menu-s.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #eb6b56;
+}
+#menu-s .mbr-navbar__section {
+  background: #eb6b56;
 }
 #menu-s .mbr-navbar__hamburger {
   color: #000000;
@@ -23,15 +26,6 @@
 }
 
 
-#menu-u .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-u.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-u .mbr-navbar__hamburger {
-  color: #000000;
-}
 #slider-9 .btn {
   font-size: 18px;
   font-family: 'Oxygen', sans-serif;
@@ -44,6 +38,15 @@
 }
 #slider-9 H1 {
   text-align: center;
+}
+#ext_menu-1p .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1p .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #menu-13 .mbr-brand__name {
   font-size: 16px;
@@ -191,7 +194,7 @@
   font-size: 16px;
 }
 #menu-s.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #eb6b56;
 }
 #menu-s .mbr-navbar__hamburger {
   color: #000000;
@@ -214,18 +217,15 @@
 #ext_menu-1p.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
-#ext_menu-1p .mbr-navbar__section {
-  background: #2c2c2c;
-}
 #ext_menu-1p .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#menu-u .mbr-brand__name {
+#menu-s .mbr-brand__name {
   font-size: 16px;
 }
-#menu-u.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+#menu-s.mbr-navbar--stuck .mbr-navbar__section {
+  background: #eb6b56;
 }
-#menu-u .mbr-navbar__hamburger {
+#menu-s .mbr-navbar__hamburger {
   color: #000000;
 }
